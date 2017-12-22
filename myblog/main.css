@@ -1,0 +1,39 @@
+.pic{
+    position: absolute;
+    left: 20px;
+    top: 375px;
+    color: wheat;
+}
+.cont{
+    position: absolute;
+    left: 350px;
+    right: 500px;
+    top: 450px;
+    color: wheat;
+}
+#more{
+    position: absolute;
+    left: 1100px;
+    top: 450px;
+   
+
+}
+#slide{
+    position: absolute;
+    top:50px;
+    color: white;
+    left:100px;
+    right: 100px;
+    
+
+}
+#inslide{
+    position: absolute;
+    left: 200px;
+        
+}
+#fed{
+    position: absolute;
+    top: 700px;
+    color: white;
+}
